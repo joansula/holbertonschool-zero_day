@@ -1,8 +1,2 @@
 #!/bin/bash
 echo "Best"
-clear
-cd bash
-root@1ab33f8ffd6f:/holbertonschool-zero_day/git/bash# cat > school
-#!/bin/bash
-echo "School"
-
