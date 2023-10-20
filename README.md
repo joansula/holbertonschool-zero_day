@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-another readme for git
+another read me for git
 =======
 My first readme
 README update from github.com
